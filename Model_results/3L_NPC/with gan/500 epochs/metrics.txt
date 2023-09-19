@@ -1,0 +1,4 @@
+Test RMSE: 0.0035
+Test MAE: 0.0025
+R^2 Score: 0.999219
+Adjusted R^2 Score: 0.999219

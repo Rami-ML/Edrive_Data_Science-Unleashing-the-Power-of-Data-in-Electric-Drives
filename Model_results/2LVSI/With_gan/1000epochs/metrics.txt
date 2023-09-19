@@ -1,0 +1,6 @@
+best_model_synthetic_r_square_0.99942_epoch_1000_loss_MSE_optimizer_ADAM_
+lr_0.003_dropout_0.0008_layers_8_neurons_2048_2LVSI
+Test RMSE: 0.0030
+Test MAE: 0.0021
+R^2 Score: 0.999423
+Adjusted R^2 Score: 0.999423

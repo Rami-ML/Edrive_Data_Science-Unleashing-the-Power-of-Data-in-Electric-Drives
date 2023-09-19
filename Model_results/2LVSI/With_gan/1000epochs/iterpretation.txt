@@ -1,0 +1,7 @@
+with gan
+
+300- 100 epochs similiar because of big dataset
+
+wihtout gan
+
+not similiar!

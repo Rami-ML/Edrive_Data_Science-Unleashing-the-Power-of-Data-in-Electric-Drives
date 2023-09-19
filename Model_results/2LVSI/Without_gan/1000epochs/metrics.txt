@@ -1,0 +1,9 @@
+best_model_3_outputs_r_square_0.99938_epoch_1000_loss_MSE_
+optimizer_ADAM_lr_0.003_dropout_0.0008_layers_8_neurons_2048_2LVSI
+Test RMSE: 0.0028
+Test MAE: 0.0019
+R^2 Score: 0.999376
+Adjusted R^2 Score: 0.999376
+
+compare epochs mlp and data synthetic vs not 
+compare more materials vs less materials
