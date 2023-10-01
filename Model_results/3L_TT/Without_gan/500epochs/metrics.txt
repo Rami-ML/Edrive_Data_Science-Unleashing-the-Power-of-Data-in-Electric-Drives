@@ -1,0 +1,5 @@
+Test RMSE: 0.0026
+Test MAE: 0.0019
+R^2 Score: 0.999677
+Adjusted R^2 Score: 0.999676
+best_model_synthetic_r_square_0.99968_epoch_500_loss_MSE_optimizer_ADAM_lr_0.0003_dropout_0.0008_layers_8_neurons_2048_3L_TT.pt

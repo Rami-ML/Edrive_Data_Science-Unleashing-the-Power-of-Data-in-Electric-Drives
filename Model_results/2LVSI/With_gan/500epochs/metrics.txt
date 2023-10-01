@@ -2,3 +2,12 @@ Test RMSE: 0.0034
 Test MAE: 0.0022
 R^2 Score: 0.999406
 Adjusted R^2 Score: 0.999406
+
+lr = 0.003
+dropout = 0.0008
+batch_site = 256
+data_size 
+neurons = 2048
+layers = 8
+optimizer = ADAM
+epochs = 500

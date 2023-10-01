@@ -1,0 +1,37 @@
+Ohne Emi auf 100 epochen:
+
+Test RMSE: 0.0075
+Test MAE: 0.0047
+R^2 Score: 0.995603
+Adjusted R^2 Score: 0.995603
+
+Mit allen Materialien:
+
+Test RMSE: 0.0056
+Test MAE: 0.0036
+R^2 Score: 0.996133
+Adjusted R^2 Score: 0.996132
+
+Mit nur 1 Materialeigenschaft pro Bauteil:
+
+Test RMSE: 0.0062
+Test MAE: 0.0044
+R^2 Score: 0.997018
+Adjusted R^2 Score: 0.997018
+
+Inbalanced data:
+
+Test RMSE: 0.022
+Test MAE: 0.0106
+R^2 Score: 0.951876
+Adjusted R^2 Score: 0.95053
+
+Balanced data:
+
+Test RMSE: 0.0056
+Test MAE: 0.0036
+R^2 Score: 0.996133
+Adjusted R^2 Score: 0.996132
+
+
+
